@@ -1,0 +1,16 @@
+# Mac OS
+.DS_Store
+
+# NPM
+npm-*
+
+# Build
+/build
+/.opt-in
+/dist
+# node-modules
+/node_modules
+/node_modules-*
+
+$Recycle.Bin/
+
